@@ -8,7 +8,13 @@ import pocztowka from './materialy/pocztowka.png'
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
+  const [kod, setKod] = useState(0);
+
+  function onChange1(value){
+    setCount(e.target.value);
+    
+  }
 
   function onClick1(value){
     setCount(value);
@@ -32,8 +38,8 @@ function App() {
     }
   }
   function butto2(){
-    var x = document.getElementById("kodp").textContent;
-    if(x>9999&&x<100000)
+    
+    if(kod>9999&&kod<100000)
     {
       document.getElementById("abc").textContent="Dane do przesyłki zostały wprowadzone";
     }
@@ -76,7 +82,7 @@ function App() {
            <p>Ulica z numerem:</p>
            <input/>
            <p>Kod pocztowy:</p>
-           <input id='kodp' type='number'/>
+           <input id='kodp' type='number' onChange={(e)=>setKod(e.target.value)}/>
            <p>Miasto:</p>
            <input/>
           </div>
