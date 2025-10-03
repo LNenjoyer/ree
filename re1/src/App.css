@@ -1,0 +1,65 @@
+body{
+  background-color: gray;
+  
+}
+
+.container{
+  background-color: azure;
+  border: 5px blanchedalmond solid;
+  height: 400px;
+  width: 60%;
+  margin-left: 20%;
+}
+#acen{
+  width: 100%;
+}
+.halfaa1{
+  float: left;
+  width: 100%;
+  border: 1px grey solid;
+  height: 50%;
+  border-radius: 5px;
+  text-align: left;
+  
+}
+.halfaa2{
+  float: left;
+  width: 45%;
+  margin: 2%;
+
+  height: 45%;
+  border-radius: 5px;
+}
+.halfaa3{
+  float: left;
+  width: 45%;
+  margin: 2%;
+  border: 1px grey solid;
+  height: 100%;
+  border-radius: 5px;
+}
+.halfaa0{
+  float: left;
+  width: 45%;
+  margin: 2%;
+  text-align: center;
+  height: 100%;
+
+}
+header{
+  height: 3%;
+}
+#maina{
+  margin-top: 4px;
+  height: 80%;
+}
+button{
+  margin-top: 5px;
+  text-align: center;
+  width: 90%;
+}
+.butto{
+  text-align: center;
+}
+
+
