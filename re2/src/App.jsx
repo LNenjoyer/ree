@@ -123,49 +123,49 @@ const handleToggle = () => {
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/56/original.png'/></td><td className='teksiz'>CHOR</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/155/original.png'/></td><td className='teksiz'>PL19</td></tr>
-              <tr><td>dziś 15.40</td></tr>
+              <tr><td className='teksiz2'>dziś 15.40</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/102/original.png'/></td><td className='teksiz'>JAP</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/152/original.png'/></td><td className='teksiz'>PAR</td></tr>
-              <tr><td>dziś 13.40</td></tr>
+              <tr><td className='teksiz2'>dziś 13.40</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/100/original.png'/></td><td className='teksiz'>PAO</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/104/original.png'/></td><td className='teksiz'>KAZ</td></tr>
-              <tr><td>dziś 15.00</td></tr>
+              <tr><td className='teksiz2'>dziś 15.00</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/225/original.png'/></td><td className='teksiz'>CZ21</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/35/original.png'/></td><td className='teksiz'>BRA</td></tr>
-              <tr><td>dziś 16.40</td></tr>
+              <tr><td className='teksiz2'>dziś 16.40</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/225/original.png'/></td><td className='teksiz'>CZ21</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/35/original.png'/></td><td className='teksiz'>BRA</td></tr>
-              <tr><td>dziś 16.40</td></tr>
+              <tr><td className='teksiz2'>dziś 16.40</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/225/original.png'/></td><td className='teksiz'>CZ21</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/35/original.png'/></td><td className='teksiz'>BRA</td></tr>
-              <tr><td>dziś 16.40</td></tr>
+              <tr><td className='teksiz2'>dziś 16.40</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/225/original.png'/></td><td className='teksiz'>CZ21</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/35/original.png'/></td><td className='teksiz'>BRA</td></tr>
-              <tr><td>dziś 16.40</td></tr>
+              <tr><td className='teksiz2'>dziś 16.40</td></tr>
             </tbody>
           </table>
           {count5==0? "":<Wincej5/>}
@@ -173,35 +173,35 @@ const handleToggle = () => {
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/225/original.png'/></td><td className='teksiz'>CZ21</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/35/original.png'/></td><td className='teksiz'>BRA</td></tr>
-              <tr><td>dziś 16.40</td></tr>
+              <tr><td className='teksiz2'>dziś 16.40</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/225/original.png'/></td><td className='teksiz'>CZ21</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/35/original.png'/></td><td className='teksiz'>BRA</td></tr>
-              <tr><td>dziś 16.40</td></tr>
+              <tr><td className='teksiz2'>dziś 16.40</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/225/original.png'/></td><td className='teksiz'>CZ21</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/35/original.png'/></td><td className='teksiz'>BRA</td></tr>
-              <tr><td>dziś 16.40</td></tr>
+              <tr><td className='teksiz2'>dziś 16.40</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/225/original.png'/></td><td className='teksiz'>CZ21</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/35/original.png'/></td><td className='teksiz'>BRA</td></tr>
-              <tr><td>dziś 16.40</td></tr>
+              <tr><td className='teksiz2'>dziś 16.40</td></tr>
             </tbody>
           </table>
           <table>
             <tbody>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/225/original.png'/></td><td className='teksiz'>CZ21</td></tr>
               <tr><td><img className='aaa' src='https://pliki.meczyki.pl/live-score/soccer/country/35/original.png'/></td><td className='teksiz'>BRA</td></tr>
-              <tr><td>dziś 16.40</td></tr>
+              <tr><td className='teksiz2'>dziś 16.40</td></tr>
             </tbody>
           </table>
         </div>

@@ -60,6 +60,9 @@ table{
   height: 200px;
   background-color: #090d11;
 }
-td{
+.teksiz{
   font-size: 60%;
+}
+.teksiz2{
+  font-size: 80%;
 }
