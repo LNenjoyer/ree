@@ -1,0 +1,65 @@
+body{
+  background-color: #22272B;
+}
+#hed{
+  height: 100;
+  
+}
+
+.logo{
+float: left;
+
+}
+.daynig{
+float: left;
+
+}
+.cat{
+float: right;
+color: whitesmoke;
+padding: 5px;
+}
+table{
+  margin: 10px;
+  float: left;
+  border-radius: 5px;
+  padding: 3px;
+  border: 1px solid whitesmoke;
+  color: whitesmoke;
+}
+#mnain{
+  clear: both;
+}
+.zyw{
+  clear: both;
+  color: whitesmoke;
+}
+.aaa{
+  height: 14px;
+}
+#but1{
+  float: right;
+  border: 0;
+  background-color: #22272B;
+  color: green;
+}
+#but1:hover{
+  text-decoration: underline;
+}
+.fish{
+  width: 100%;
+}
+.rek{
+  margin-left: 20%;
+}
+#rrak{
+  text-align: left;
+}
+#reklama{
+  width: 60%;
+  height: 200px;
+  background-color: #090d11;
+}
+td{
+  font-size: 60%;
+}
