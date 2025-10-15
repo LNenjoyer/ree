@@ -76,40 +76,40 @@ const handleToggle = () => {
         <table>
           <tbody>
             <tr>Skróty</tr>
-            <tr className='naz'><td>FC Porto - Benfica Lizbona</td><td>0:0</td></tr>
-            <tr className='naz'><td>Celta de Vigo - Atlético Madryt</td><td>1:1</td></tr>
-            <tr className='naz'><td>Juventus Turyn - AC Milan</td><td>0:0</td></tr>
-            <tr className='naz'><td>Górnik Zabrze - Legia Warszawa</td><td>3:0</td></tr>
+            <tr className='naz'><td>FC Porto - Benfica Lizbona</td><td>0:0</td></tr><hr/>      
+            <tr className='naz'><td>Celta de Vigo - Atlético Madryt</td><td>1:1</td></tr><hr/>
+            <tr className='naz'><td>Juventus Turyn - AC Milan</td><td>0:0</td></tr><hr/>
+            <tr className='naz'><td>Górnik Zabrze - Legia Warszawa</td><td>3:0</td></tr><hr/>
             {count1==0?<button onClick={()=>button1()}>Rozwiń</button>:<Wincej1/>}
           </tbody>
         </table>
         <table>
           <tbody>
             <tr>Typy</tr>
-            <tr className='naz'><td>Polska - Nowa Zelandia</td></tr>
-            <tr className='naz'><td>Finlandia - Litwa</td></tr>
-            <tr className='naz'><td>Wyspy Owcze - Czarnogóra</td></tr>
-            <tr className='naz'><td>Malta - Holandia</td></tr>
+            <tr className='naz'><td>Polska - Nowa Zelandia</td></tr><hr/>
+            <tr className='naz'><td>Finlandia - Litwa</td></tr><hr/>
+            <tr className='naz'><td>Wyspy Owcze - Czarnogóra</td></tr><hr/>
+            <tr className='naz'><td>Malta - Holandia</td></tr><hr/>
             {count2==0?<button onClick={()=>button2()}>Rozwiń</button>:<Wincej2/>}
           </tbody>
         </table>
         <table>
           <tbody>
             <tr>Bonusy</tr>
-            <tr className='naz'><td>Superbet kod promocyjny</td></tr>
-            <tr className='naz'><td>Betclic kod promocyjny</td></tr>
-            <tr className='naz'><td>STS kod promocyjny</td></tr>
-            <tr className='naz'><td>Fortuna kod promocyjny</td></tr>
+            <tr className='naz'><td>Superbet kod promocyjny</td></tr><hr/>
+            <tr className='naz'><td>Betclic kod promocyjny</td></tr><hr/>
+            <tr className='naz'><td>STS kod promocyjny</td></tr><hr/>
+            <tr className='naz'><td>Fortuna kod promocyjny</td></tr><hr/>
             {count3==0?<button onClick={()=>button3()}>Rozwiń</button>:<Wincej3/>}
           </tbody>
         </table>
         <table>
           <tbody>
             <tr>Sportbuzz</tr>
-            <tr className='naz'><td>FC Barcelona rozgromiła Bayern w meczu Ligi Mistrzyń</td></tr>
-            <tr className='naz'><td>Ewa Pajor jednego z goli w meczu z Bayernem strzeliła "nożycami"</td></tr>
-            <tr className='naz'><td>Zespoły z TOP 5 lig Europy, które mają najniższa średnią traconych bramek na mecz</td></tr>
-            <tr className='naz'><td>Według Fabrizio Romano Sergio Conceição został no</td></tr>
+            <tr className='naz'><td>FC Barcelona rozgromiła Bayern w meczu Ligi Mistrzyń</td></tr><hr/>
+            <tr className='naz'><td>Ewa Pajor jednego z goli w meczu z Bayernem strzeliła "nożycami"</td></tr><hr/>
+            <tr className='naz'><td>Zespoły z TOP 5 lig Europy, które mają najniższa średnią traconych bramek na mecz</td></tr><hr/>
+            <tr className='naz'><td>Według Fabrizio Romano Sergio Conceição został no</td></tr><hr/>
             {count4==0?<button onClick={()=>button4()}>Rozwiń</button>:<Wincej4/>}
 
           </tbody>
