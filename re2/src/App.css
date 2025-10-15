@@ -8,16 +8,27 @@ body{
 
 .logo{
 float: left;
-
+}
+.logo:hover{
+  cursor: pointer;
 }
 .daynig{
 float: left;
-
+}
+.daynig:hover{
+  cursor: pointer;
 }
 .cat{
 float: right;
 color: whitesmoke;
 padding: 5px;
+}
+.cat:hover{
+  cursor: pointer;
+  color: rgb(1, 97, 1);
+}
+tr.naz{
+  border-bottom: 1px solid whitesmoke;
 }
 table{
   margin: 10px;
